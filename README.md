@@ -1,7 +1,7 @@
 # Simple Tkinter Calculator
 
 ## Overview
-This is a basic calculator application built with Python's Tkinter library. It allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division through a graphical user interface.
+This is a basic calculator application i made in high school is built with Python's Tkinter library. It allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division through a graphical user interface.
 
 ## Features
 - **Basic Arithmetic:** Perform addition, subtraction, multiplication, and division.
